@@ -1,4 +1,5 @@
 TravelMap_folium.py
+
 Script to generate travel maps showing places that have (and have not) been visited. Also generates photo pins using geotagged images and places on map. Output generates .html file with multi-layer folium map plus embedded image data.
 
 Map Usage:
