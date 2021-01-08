@@ -1,0 +1,53 @@
+﻿continent,name,iso_a3,Adam,Eve
+North America,Alabama,US_AL,FALSE,FALSE
+North America,Alaska,US_AK,FALSE,FALSE
+North America,Arizona,US_AZ,FALSE,FALSE
+North America,Arkansas,US_AK,FALSE,FALSE
+North America,California,US_CA,TRUE,TRUE
+North America,Colorado,US_CO,TRUE,TRUE
+North America,Connecticut,US_CT,FALSE,FALSE
+North America,Delaware,US_DE,FALSE,FALSE
+North America,District of Columbia,US_DC,FALSE,FALSE
+North America,Florida,US_FL,TRUE,TRUE
+North America,Georgia,US_GA,TRUE,TRUE
+North America,Hawaii,US_HI,FALSE,FALSE
+North America,Idaho,US_ID,FALSE,FALSE
+North America,Illinois,US_IL,FALSE,FALSE
+North America,Indiana,US_IN,FALSE,FALSE
+North America,Iowa,US_IA,FALSE,FALSE
+North America,Kansas,US_KS,FALSE,FALSE
+North America,Kentucky,US_KY,TRUE,FALSE
+North America,Louisiana,US_LA,TRUE,TRUE
+North America,Maine,US_ME,TRUE,FALSE
+North America,Maryland,US_MD,FALSE,TRUE
+North America,Massachusetts,US_MA,TRUE,TRUE
+North America,Michigan,US_MI,TRUE,TRUE
+North America,Minnesota,US_MN,FALSE,FALSE
+North America,Mississippi,US_MS,FALSE,FALSE
+North America,Missouri,US_MO,FALSE,FALSE
+North America,Montana,US_MT,FALSE,FALSE
+North America,Nebraska,US_NE,TRUE,TRUE
+North America,Nevada,US_NV,TRUE,TRUE
+North America,New Hampshire,US_NH,FALSE,FALSE
+North America,New Jersey,US_NJ,FALSE,FALSE
+North America,New Mexico,US_NM,TRUE,TRUE
+North America,New York,US_NY,TRUE,TRUE
+North America,North Carolina,US_NC,FALSE,FALSE
+North America,North Dakota,US_ND,FALSE,FALSE
+North America,Ohio,US_OH,FALSE,TRUE
+North America,Oklahoma,US_OK,TRUE,FALSE
+North America,Oregon,US_OR,TRUE,TRUE
+North America,Pennsylvania,US_PA,FALSE,TRUE
+North America,Rhode Island,US_RI,FALSE,FALSE
+North America,South Carolina,US_SC,TRUE,FALSE
+North America,South Dakota,US_SD,FALSE,FALSE
+North America,Tennessee,US_TN,FALSE,FALSE
+North America,Texas,US_TX,TRUE,TRUE
+North America,Utah,US_UT,FALSE,FALSE
+North America,Vermont,US_VT,FALSE,FALSE
+North America,Virginia,US_VA,TRUE,TRUE
+North America,Washington,US_WA,TRUE,TRUE
+North America,West Virginia,US_WV,TRUE,FALSE
+North America,Wisconsin,US_WI,FALSE,TRUE
+North America,Wyoming,US_WY,FALSE,FALSE
+North America,Puerto Rico,US_PR,FALSE,FALSE

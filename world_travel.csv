@@ -1,0 +1,242 @@
+﻿continent,name,iso_a3,Adam,Eve
+Africa,Algeria,DZA,FALSE,FALSE
+Africa,Angola,AGO,FALSE,FALSE
+Africa,Benin,BEN,FALSE,FALSE
+Africa,Botswana,BWA,FALSE,FALSE
+Africa,Burkina Faso,BFA,FALSE,FALSE
+Africa,Burundi,BDI,FALSE,FALSE
+Africa,Cameroon,CMR,TRUE,FALSE
+Africa,Cape Verde,CPV,FALSE,FALSE
+Africa,Central African Republic,CAF,FALSE,FALSE
+Africa,Chad,TCD,FALSE,FALSE
+Africa,Comoros,COM,FALSE,FALSE
+Africa,Democratic Republic of the Congo,COD,FALSE,FALSE
+Africa,Djibouti,DJI,FALSE,FALSE
+Africa,Egypt,EGY,FALSE,FALSE
+Africa,Equatorial Guinea,GNQ,FALSE,FALSE
+Africa,Eritrea,ERI,FALSE,FALSE
+Africa,eSwatini,SWZ,FALSE,FALSE
+Africa,Ethiopia,ETH,FALSE,FALSE
+Africa,Gabon,GAB,FALSE,FALSE
+Africa,Ghana,GHA,FALSE,FALSE
+Africa,Guinea,GIN,FALSE,FALSE
+Africa,Guinea-Bissau,GNB,FALSE,FALSE
+Africa,Ivory Coast,CIV,FALSE,FALSE
+Africa,Kenya,KEN,FALSE,FALSE
+Africa,Lesotho,LSO,FALSE,FALSE
+Africa,Liberia,LBR,FALSE,FALSE
+Africa,Libya,LBY,FALSE,FALSE
+Africa,Madagascar,MDG,TRUE,TRUE
+Africa,Malawi,MWI,FALSE,FALSE
+Africa,Mali,MLI,FALSE,FALSE
+Africa,Mauritania,MRT,FALSE,FALSE
+Africa,Morocco,MAR,TRUE,FALSE
+Africa,Mozambique,MOZ,FALSE,FALSE
+Africa,Namibia,NAM,FALSE,FALSE
+Africa,Niger,NER,FALSE,FALSE
+Africa,Nigeria,NGA,FALSE,FALSE
+Africa,Republic of the Congo,COG,FALSE,FALSE
+Africa,Rwanda,RWA,FALSE,FALSE
+Africa,Sao Tome and Principe,STP,FALSE,FALSE
+Africa,Senegal,SEN,FALSE,FALSE
+Africa,Sierra Leone,SLE,FALSE,FALSE
+Africa,Somalia,SOM,FALSE,FALSE
+Africa,Somaliland,SLD,FALSE,FALSE
+Africa,South Africa,ZAF,FALSE,FALSE
+Africa,South Sudan,SSD,FALSE,FALSE
+Africa,Sudan,SDN,FALSE,FALSE
+Africa,Tanzania,TZA,FALSE,TRUE
+Africa,The Gambia,GMB,FALSE,FALSE
+Africa,Togo,TGO,FALSE,FALSE
+Africa,Tunisia,TUN,FALSE,FALSE
+Africa,Uganda,UGA,FALSE,FALSE
+Africa,Western Sahara,ESH,FALSE,FALSE
+Africa,Zambia,ZMB,FALSE,FALSE
+Africa,Zimbabwe,ZWE,FALSE,FALSE
+Antarctica,Antarctica,ATA,FALSE,FALSE
+Asia,Afghanistan,AFG,FALSE,FALSE
+Asia,Armenia,ARM,FALSE,FALSE
+Asia,Australian Indian Ocean Territories,AUS-IOT,FALSE,FALSE
+Asia,Azerbaijan,AZE,FALSE,FALSE
+Asia,Bahrain,BHR,FALSE,FALSE
+Asia,Bangladesh,BGD,FALSE,FALSE
+Asia,Bhutan,BTN,FALSE,FALSE
+Asia,Brunei,BRN,FALSE,FALSE
+Asia,Cambodia,KHM,FALSE,FALSE
+Asia,Cyprus,CYP,FALSE,FALSE
+Asia,East Timor,TLS,FALSE,FALSE
+Asia,Georgia,GEO,FALSE,FALSE
+Asia,Hong Kong,HKG,FALSE,FALSE
+Asia,India,IND,FALSE,FALSE
+Asia,Indonesia,IDN,FALSE,FALSE
+Asia,Iran,IRN,FALSE,FALSE
+Asia,Iraq,IRQ,FALSE,FALSE
+Asia,Israel,ISR,FALSE,FALSE
+Asia,Japan,JPN,TRUE,TRUE
+Asia,Jordan,JOR,FALSE,FALSE
+Asia,Kazakhstan,KAZ,FALSE,FALSE
+Asia,Kuwait,KWT,FALSE,FALSE
+Asia,Kyrgyzstan,KGZ,FALSE,FALSE
+Asia,Laos,LAO,FALSE,FALSE
+Asia,Lebanon,LBN,FALSE,FALSE
+Asia,Macau,MAC,FALSE,FALSE
+Asia,Malaysia,MYS,FALSE,FALSE
+Asia,Mongolia,MNG,FALSE,FALSE
+Asia,Myanmar,MMR,FALSE,FALSE
+Asia,Nepal,NPL,FALSE,FALSE
+Asia,North Korea,PRK,FALSE,FALSE
+Asia,Oman,OMN,FALSE,FALSE
+Asia,Pakistan,PAK,FALSE,FALSE
+Asia,Palestine,PSE,FALSE,FALSE
+Asia,People's Republic of China,CHN,FALSE,FALSE
+Asia,Philippines,PHL,FALSE,FALSE
+Asia,Qatar,QAT,FALSE,FALSE
+Asia,Saudi Arabia,SAU,FALSE,FALSE
+Asia,Siachen Glacier,IND-SG,FALSE,FALSE
+Asia,Singapore,SGP,FALSE,FALSE
+Asia,South Korea,KOR,FALSE,FALSE
+Asia,Sri Lanka,LKA,FALSE,FALSE
+Asia,Syria,SYR,FALSE,FALSE
+Asia,Taiwan,TWN,FALSE,FALSE
+Asia,Tajikistan,TJK,FALSE,FALSE
+Asia,Thailand,THA,FALSE,FALSE
+Asia,Turkey,TUR,FALSE,FALSE
+Asia,Turkish Republic of Northern Cyprus,CYN,FALSE,FALSE
+Asia,Turkmenistan,TKM,FALSE,FALSE
+Asia,United Arab Emirates,ARE,FALSE,FALSE
+Asia,Uzbekistan,UZB,FALSE,FALSE
+Asia,Vietnam,VNM,FALSE,FALSE
+Asia,Yemen,YEM,FALSE,FALSE
+Europe,Aland Islands,ALA,FALSE,FALSE
+Europe,Albania,ALB,FALSE,FALSE
+Europe,Andorra,AND,FALSE,FALSE
+Europe,Austria,AUT,FALSE,FALSE
+Europe,Belarus,BLR,FALSE,FALSE
+Europe,Belgium,BEL,FALSE,FALSE
+Europe,Bosnia and Herzegovina,BIH,FALSE,FALSE
+Europe,Bulgaria,BGR,TRUE,TRUE
+Europe,Croatia,HRV,FALSE,FALSE
+Europe,Czech Republic,CZE,FALSE,FALSE
+Europe,Denmark,DNK,FALSE,FALSE
+Europe,Estonia,EST,FALSE,FALSE
+Europe,Faroe Islands,FRO,FALSE,FALSE
+Europe,Finland,FIN,FALSE,FALSE
+Europe,France,FRA,FALSE,FALSE
+Europe,Germany,DEU,FALSE,FALSE
+Europe,Greece,GRC,FALSE,FALSE
+Europe,Guernsey,GGY,FALSE,FALSE
+Europe,Hungary,HUN,FALSE,FALSE
+Europe,Iceland,ISL,FALSE,FALSE
+Europe,Ireland,IRL,FALSE,FALSE
+Europe,Isle of Man,IMN,FALSE,FALSE
+Europe,Italy,ITA,FALSE,FALSE
+Europe,Jersey,JEY,FALSE,FALSE
+Europe,Kosovo,RKS,FALSE,FALSE
+Europe,Latvia,LVA,FALSE,FALSE
+Europe,Liechtenstein,LIE,FALSE,FALSE
+Europe,Lithuania,LTU,FALSE,FALSE
+Europe,Luxembourg,LUX,FALSE,FALSE
+Europe,Malta,MLT,FALSE,FALSE
+Europe,Moldova,MDA,FALSE,FALSE
+Europe,Monaco,MCO,FALSE,FALSE
+Europe,Montenegro,MNE,FALSE,FALSE
+Europe,Netherlands,NLD,FALSE,FALSE
+Europe,Norway,NOR,TRUE,FALSE
+Europe,Poland,POL,FALSE,FALSE
+Europe,Portugal,PRT,TRUE,TRUE
+Europe,Republic of Macedonia,MKD,FALSE,FALSE
+Europe,Romania,ROU,FALSE,TRUE
+Europe,Russia,RUS,FALSE,FALSE
+Europe,San Marino,SMR,FALSE,FALSE
+Europe,Serbia,SRB,FALSE,FALSE
+Europe,Slovakia,SVK,FALSE,FALSE
+Europe,Slovenia,SVN,FALSE,FALSE
+Europe,Spain,ESP,TRUE,TRUE
+Europe,Sweden,SWE,FALSE,FALSE
+Europe,Switzerland,CHE,FALSE,FALSE
+Europe,Ukraine,UKR,FALSE,FALSE
+Europe,United Kingdom,GBR,FALSE,FALSE
+Europe,Vatican City,VAT,FALSE,FALSE
+North America,Anguilla,AIA,FALSE,FALSE
+North America,Antigua and Barbuda,ATG,FALSE,FALSE
+North America,Aruba,ABW,FALSE,FALSE
+North America,Barbados,BRB,FALSE,FALSE
+North America,Belize,BLZ,FALSE,FALSE
+North America,Bermuda,BMU,FALSE,FALSE
+North America,British Virgin Islands,VGB,FALSE,FALSE
+North America,Canada,CAN,TRUE,TRUE
+North America,Cayman Islands,CYM,FALSE,FALSE
+North America,Costa Rica,CRI,FALSE,FALSE
+North America,Cuba,CUB,FALSE,FALSE
+North America,Curacao,CUW,FALSE,FALSE
+North America,Dominica,DMA,FALSE,FALSE
+North America,Dominican Republic,DOM,FALSE,FALSE
+North America,El Salvador,SLV,FALSE,FALSE
+North America,Greenland,GRL,FALSE,TRUE
+North America,Grenada,GRD,FALSE,FALSE
+North America,Guatemala,GTM,FALSE,FALSE
+North America,Haiti,HTI,FALSE,FALSE
+North America,Honduras,HND,FALSE,FALSE
+North America,Jamaica,JAM,FALSE,FALSE
+North America,Mexico,MEX,FALSE,FALSE
+North America,Montserrat,MSR,FALSE,FALSE
+North America,Nicaragua,NIC,FALSE,FALSE
+North America,Panama,PAN,FALSE,FALSE
+North America,Puerto Rico,PRI,FALSE,FALSE
+North America,Saint Kitts and Nevis,KNA,FALSE,FALSE
+North America,Saint Lucia,LCA,FALSE,FALSE
+North America,Saint Martin,MAF,FALSE,FALSE
+North America,Saint Pierre and Miquelon,SPM,FALSE,FALSE
+North America,Saint Vincent and the Grenadines,VCT,FALSE,FALSE
+North America,Saint-Barthelemy,BLM,FALSE,FALSE
+North America,Sint Maarten,SXM,FALSE,FALSE
+North America,The Bahamas,BHS,FALSE,FALSE
+North America,Trinidad and Tobago,TTO,FALSE,FALSE
+North America,Turks and Caicos Islands,TCA,FALSE,FALSE
+North America,United States of America,USA,FALSE,FALSE
+North America,United States Virgin Islands,VIR,FALSE,FALSE
+Oceania,American Samoa,ASM,FALSE,FALSE
+Oceania,Ashmore and Cartier Islands,AUS-ACI,FALSE,FALSE
+Oceania,Australia,AUS,TRUE,FALSE
+Oceania,Cook Islands,COK,FALSE,FALSE
+Oceania,Federated States of Micronesia,FSM,FALSE,FALSE
+Oceania,Fiji,FJI,FALSE,FALSE
+Oceania,French Polynesia,PYF,FALSE,FALSE
+Oceania,Guam,GUM,FALSE,FALSE
+Oceania,Kiribati,KIR,FALSE,FALSE
+Oceania,Marshall Islands,MHL,FALSE,FALSE
+Oceania,Nauru,NRU,FALSE,FALSE
+Oceania,New Caledonia,NCL,FALSE,FALSE
+Oceania,New Zealand,NZL,FALSE,FALSE
+Oceania,Niue,NIU,FALSE,FALSE
+Oceania,Norfolk Island,NFK,FALSE,FALSE
+Oceania,Northern Mariana Islands,MNP,FALSE,FALSE
+Oceania,Palau,PLW,FALSE,FALSE
+Oceania,Papua New Guinea,PNG,FALSE,FALSE
+Oceania,Pitcairn Islands,PCN,FALSE,FALSE
+Oceania,Samoa,WSM,FALSE,FALSE
+Oceania,Solomon Islands,SLB,FALSE,FALSE
+Oceania,Tonga,TON,FALSE,FALSE
+Oceania,Vanuatu,VUT,FALSE,FALSE
+Oceania,Wallis and Futuna,WLF,FALSE,FALSE
+Seven seas (open ocean),British Indian Ocean Territory,IOT,FALSE,FALSE
+Seven seas (open ocean),French Southern and Antarctic Lands,ATF,FALSE,FALSE
+Seven seas (open ocean),Heard Island and McDonald Islands,HMD,FALSE,FALSE
+Seven seas (open ocean),Maldives,MDV,FALSE,FALSE
+Seven seas (open ocean),Mauritius,MUS,FALSE,FALSE
+Seven seas (open ocean),Saint Helena,SHN,FALSE,FALSE
+Seven seas (open ocean),Seychelles,SYC,FALSE,FALSE
+Seven seas (open ocean),South Georgia and the South Sandwich Islands,SGS,FALSE,FALSE
+South America,Argentina,ARG,FALSE,FALSE
+South America,Bolivia,BOL,FALSE,FALSE
+South America,Brazil,BRA,FALSE,TRUE
+South America,Chile,CHL,FALSE,FALSE
+South America,Colombia,COL,TRUE,FALSE
+South America,Ecuador,ECU,TRUE,FALSE
+South America,Falkland Islands,FLK,FALSE,FALSE
+South America,Guyana,GUY,TRUE,FALSE
+South America,Paraguay,PRY,FALSE,FALSE
+South America,Peru,PER,TRUE,TRUE
+South America,Suriname,SUR,FALSE,FALSE
+South America,Uruguay,URY,FALSE,FALSE
+South America,Venezuela,VEN,FALSE,FALSE

@@ -1,0 +1,7 @@
+Name	Latitude	Longitude	Altitude	Date	UTC_Time
+pexels-brandon-montrone-1324803.jpg	40.351190	-105.618802	6000	1/4/2021	12:30:00
+pexels-hendrik-cornelissen-2862070.jpg	-1.995498	34.748801	4800	1/4/2021	13:30:00
+pexels-hristo-fidanov-1252869.jpg	-39.199222	-61.878750	200	1/4/2021	14:30:00
+pexels-jacob-morch-572780.jpg	45.771651	13.602013	35	1/4/2021	15:30:00
+pexels-jeffrey-czum-3499174.jpg	48.858729	2.365512	110	1/4/2021	16:30:00
+					
